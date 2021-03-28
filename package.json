@@ -1,0 +1,26 @@
+{
+  "name": "book-search-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "dependencies": {
+    "graphql": "^15.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start",
+    "seed": "npm run seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jephtebb/book-search-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jephtebb/book-search-engine/issues"
+  },
+  "homepage": "https://github.com/jephtebb/book-search-engine#readme"
+}
